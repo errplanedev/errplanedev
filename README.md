@@ -1,4 +1,3 @@
-<a href='https://www.electronjs.org' target="_blank"><img alt='electron' src='https://img.shields.io/badge/Electron-100000?style=for-the-badge&logo=electron&logoColor=white&labelColor=black&color=black'/></a>
-# Hi there :wave:
+# Hi there! :wave:
 - :electron: I'm currently working on a Electron app
 - <img width="25" height="25" src="./svgs/pocketbase.svg"> I'm currently learning about pocketbase
