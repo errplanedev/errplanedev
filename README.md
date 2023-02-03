@@ -1,9 +1,6 @@
 # // Invixity
 :dart: I'm currently learning [SvelteKit](https://kit.svelte.dev).
 
-
-:fire: I'm working on Ember (A chat app in [SvelteKit](https://kit.svelte.dev) and [PocketBase](https://pocketbase.io))
-
 ![](https://github-readme-stats.vercel.app/api?username=invixitydev&show_icons=true&theme=tokyonight)
 
 ---
