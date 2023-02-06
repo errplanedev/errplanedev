@@ -1,4 +1,4 @@
-# // Invixity
+# errplane
 :dart: I'm currently learning [SvelteKit](https://kit.svelte.dev).
 
 ![](https://github-readme-stats.vercel.app/api?username=errplanedev&show_icons=true&theme=tokyonight)
